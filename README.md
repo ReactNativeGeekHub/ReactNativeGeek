@@ -1,4 +1,4 @@
-# Welcome to ReactNativeGeekHub.
+# Welcome to ReactNativeGeekHub
 -
 Use TencentQQ(QQGroupNumber:172185449,GroupName:React-Native极客群) to join us.
 -
@@ -589,3 +589,15 @@ https://github.com/necolas/react-native-web
 
 
 https://www.npmjs.com/package/react-native-calendars
+
+
+### 流
+
+
+https://www.npmjs.com/package/react-native-fetch-blob
+
+
+### 顶部通知
+
+
+https://github.com/zo0r/react-native-push-notification
