@@ -1,1 +1,3 @@
 *.js linguist-language=React-Native
+*.css linguist-language=React-Native
+*.html linguist-language=React-Native
